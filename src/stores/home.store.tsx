@@ -26,11 +26,11 @@ export default class HomeStore {
     const post: Post = {
       author: {
         id: 1,
-        name: "jr_acn",
-        avatar: "https://avatars0.githubusercontent.com/u/6952134?s=50"
+        name: "caiosantosf",
+        avatar: "https://avatars3.githubusercontent.com/u/14207713?s=460&u=bb6661cf6f9a7cea2bee6fcda7e43d4fc45c34ea&v=4"
       },
       authorId: 1,
-      description: 'irado',
+      description: 'teste',
       id: this.posts.length + 1,
       image: uriPhoto
     }
